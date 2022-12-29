@@ -1,6 +1,6 @@
 daysconversion = {
     #key value pairs are defined in dictionaries
-    "Som": "monday",
+    "Lundi": "monday",
     "Mangal": "tuesday",
     "budh": "wednesday",
     "guru": "thursday",
